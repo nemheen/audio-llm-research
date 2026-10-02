@@ -1,0 +1,23 @@
+data:
+  tasks:
+    transcribe: 1.0
+  train:
+  - locale: mn
+    root: data/raw/cv-corpus-22.0-delta-2025-06-20
+    split: other
+model:
+  encoder_id: openai/whisper-tiny
+  llm_id: Qwen/Qwen2.5-0.5B-Instruct
+  projector_hidden: 512
+  stack_factor: 4
+out: checkpoints/adapter_smoke
+train:
+  batch_size: 4
+  device: cpu
+  grad_accum: 1
+  log_every: 5
+  lr: 0.001
+  max_steps: 60
+  save_every: 60
+  seed: 0
+  warmup_steps: 5

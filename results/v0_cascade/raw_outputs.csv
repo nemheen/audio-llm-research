@@ -1,0 +1,1190 @@
+,sentence_id,reason,sentence_x,path,gender,accents,duration[ms],asr_transcript,llm_reasoning_output
+0,f88c245223cf2a796c4c98f882aff9f7269cbd54d3a1cd33d28d1f1e3fc30063,offensive-language,The Welsh Office was created to execute government policy in Wales.,common_voice_en_42706193.mp3,male_masculine,United States English,7200,The Welsh Office was created to execute government policy in Wales.,"Additional Information: <contextual details or additional insights>
+
+**Note:** 
+- You are not able to access external sources or make visual interpretations.
+- The context is limited to the provided audio transcript.
+
+**Output:**
+Topic: Welsh government policy
+Reason: Informative and neutral tone
+Fact 1: The Welsh Office was established to implement government policy in Wales.
+Fact 2: The focus is on providing public services and supporting economic development.
+Fact 3: The Welsh Office is responsible for monitoring and evaluating policy effectiveness."
+1,f87bbb0bdb343b48aa135afee217f2c445c735be7438b9942eaf0bff10780047,grammar-or-spelling,The legs are short and black as well.,common_voice_en_42710400.mp3,,,5148,The legs are short and the black has real.,"Language: <language of the transcription>
+
+
+**Output:**
+Topic: Shortness of legs
+Reason: The black is real
+Fact 1: The legs are short
+Fact 2: The black has real
+Fact 3: Language: Different-language"
+2,f8a0fb027a553201a62b5fcb750e66e6fdd3f588bb5c108d1199098592e79460,grammar-or-spelling,It helps focus on the subject and not its environment.,common_voice_en_42710509.mp3,male_masculine,Filipino,5688,It helps focus on the subject and not its environment.,"Additional Info: <contextual information or any other relevant details>
+
+**Note:** The context does not provide the audio transcript itself, so you have to make your own inferences based on the information provided.
+
+**Additional context:**
+- The audio is about 5 minutes long.
+- The transcript is about 10 minutes long.
+- The audio contains a mix of different languages.
+
+Based on the context and the information provided, can you extract the main topic, main reason, and three most important facts from the audio?"
+3,f895a6eaec03f6cfbbf717f6a3610ac9d7ee9f1d64519069ece63f2ddca17ebb,grammar-or-spelling,A faint ghost crater lies in the mare to the northeast.,common_voice_en_42713213.mp3,male_masculine,Filipino,5472,A faith goes rather lies in the merch of the North East.,"Additional Information: <contextual inference based on the text>
+
+**Based on the provided context, here's the output:**
+
+**Topic: North East faith**
+**Reason: Lies are often woven into the fabric of belief**
+**Fact 1: The faith goes rather lies in the merch of the North East.**
+**Fact 2: This is a region with a rich religious history.**
+**Fact 3: Many people in the North East identify strongly with their faith.**
+**Additional Information: The context does not provide any context or inference, so I cannot generate the requested information from the context provided.**"
+4,f89e9101e0a488771f1d1612a238924f9a09a00f6b6e2d6e958f672590a489c2,grammar-or-spelling,Before deciding to become an architect he had plans to be an art-gallery owner.,common_voice_en_42713267.mp3,male_masculine,Filipino,6300,"Before deciding to become an architect, he had plans to be an art gallery owner.","Additional Information: <contextual clues or inferences>
+
+**Answer:**
+
+Topic: Becoming an Architect
+Reason: The text expresses a strong interest in architecture and design.
+Fact 1: He had plans to become an art gallery owner.
+Fact 2: The text implies that he was passionate about and knowledgeable about architecture.
+Fact 3: The text doesn't provide any specific details about his reasons for becoming an architect, but it suggests a strong interest.
+Additional Information: The context doesn't provide any additional information to suggest a possible career path."
+5,f88ca402f43384a865766a342469364d410685ca8c2508a128bf0fda0600bcdd,grammar-or-spelling,While on the Cape Verde Islands Fea collected a specimen of an unknown petrel.,common_voice_en_42729326.mp3,,German Engish,9036,"While on the Cape Verde Islands, Fia collected a specimen of an unknown petrol.","(or None if unable to extract)
+
+**Note:** You do not have access to external sources or context information, so you need to rely solely on the audio transcript."
+6,f8a30229fefba66e48dc365163a7d66d9e2cc1e1eabe6ba020fd5cc28296b014,different-language,"The principal industries in Wallowa County are agriculture, ranching, lumber, and tourism.",common_voice_en_42735660.mp3,,,8136,"The principal industries in Wallowa County are agriculture, ranching, lumber, and tourism.","Context: <provide context for understanding the information>
+
+**Output:**
+
+Topic: Agriculture, Ranching, Lumber, Tourism
+Reason: Informative tone
+Fact 1: Wallowa County relies heavily on agriculture, ranching, and lumber industries.
+Fact 2: Tourism is becoming increasingly important as a source of employment and revenue.
+Fact 3: The county is known for its fertile soil, ideal climate, and abundant water resources, making it an ideal location for these primary industries."
+7,f8c6267583eca739b844e3cfbf984f2d7c71eec5b7e7d85e74f84ba9cda25e54,different-language,"Bristow was the son of a garage owner from London, and was unmarried.",common_voice_en_42735753.mp3,,,7128,Christo was the son of a garage owner from London and wasn't married.,"(Optional) Additional context: <provide additional information about the context>
+
+**Output:**
+
+Topic: Not Provided
+Reason: Not Provided
+Fact 1: Not Provided
+Fact 2: Not Provided
+Fact 3: Not Provided"
+8,f8c8654833d3bab2a8b0c83a430e3b75ff470baecb34646549953b4e05d3901e,grammar-or-spelling,"Even in a healthy oral environment, however, the tooth is susceptible to dental caries.",common_voice_en_42747420.mp3,female_feminine,"East African,Ugandan",8316,"Even in a healthy oral environment, however, the tooth is susceptible to dental caries.","Additional Information: <contextual details about the speech>
+
+**Answer:**
+
+**Topic: Dental Caries**
+**Reason: The statement expresses concern about the susceptibility of the tooth to dental caries, a common dental condition.**
+**Fact 1: Dental Caries Susceptibility**
+**Fact 2: Tooth Environment**
+**Fact 3: Healthy Oral Environment**"
+9,f8d19d9b436b38a3477137bfd9016065994ec450dae1c32bf2f3e919c74b6d5a,different-language,"It is bounded by the comuni of Barile, Lavello, Melfi, Rionero in Vulture, Venosa.",common_voice_en_42751639.mp3,female_feminine,United States English,14040,It's no time to know.,"Language: <identified language>
+
+**Note:** This is a sample output based on the limited context. The actual output may vary depending on the actual audio content."
+10,097bbb875f3c7f72b355dc22bb8f8c64c0b8b41d06bda4c096b81b5fe15b3265,different-language,Kupunguza majani ni muhimu,common_voice_en_42762370.mp3,,,9000,ლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლ,"Language: <language identified>
+
+**Note:** This is just a sample transcription, and the actual text may be longer or shorter, or contain different language or offensive words."
+11,07f006fb90ba1a3f64557b81c953fa9c2519049277d48c09d9a23c2387ae2cbf,different-language,kwa aina ya vichwa vikubwa.,common_voice_en_42765028.mp3,,United States English,2916,Kvainajavikaukuba.,"Language: <language detected (if different from English)>
+
+**Note:** This audio contains the audio transcript of a video, but the context is not provided in the text, so I cannot generate an answer based on the context."
+12,026f9bc43005864b11d77fe4282543778b992ea5e5e377e4edc3c2a05beb7610,different-language,Mazingira yanayofaa kwa kilimo cha nyanya,common_voice_en_42765040.mp3,,United States English,6660,Ma zinghirei anna yo facko akili mo cianiania?,"Language: <language identified if different from English>
+
+**Output:**
+Topic: < topic phrase from the audio>
+Reason: < tone of the sound>
+Fact 1: < first fact or category>
+Fact 2: < second fact or category>
+Fact 3: <third fact or category>
+Language: < English"
+13,f8f2361d0359d0613682abfe1e93a5bd941730d9750e26dcab52c29ff7655609,grammar-or-spelling,He started nine games at left tackle his rookie season.,common_voice_en_42765583.mp3,male_masculine,Canadian English,6408,"He started nine games at Left Tackle, his rookie season.","Additional Information: <provide any context or insights>
+
+**Output:**
+Topic: Not provided in the context.
+Reason: Not provided in the context.
+Fact 1: He started nine games at Left Tackle.
+Fact 2: Not provided in the context.
+Fact 3: Not provided in the context.
+Additional Information: The context does not provide any context or insights about the audio."
+14,017e29cd368ae47d34466d2239162fe2c46e470e23c7039d65e2aee383c7b43d,different-language,katika shina na pia kutoa nafasi ili mwanga kupenya,common_voice_en_42766771.mp3,,,7776,Katika shina na piya kuthowa na fasi ili muanga kupenya.,"Language: <detect language>
+
+**Note:** The context does not provide the audio transcript itself, so the task cannot be completed."
+15,017e29cd368ae47d34466d2239162fe2c46e470e23c7039d65e2aee383c7b43d,different-language,katika shina na pia kutoa nafasi ili mwanga kupenya,common_voice_en_42766771.mp3,,,7776,Katika shina na piya kuthowa na fasi ili muanga kupenya.,"Language: <identified language if different from English>
+
+**Note:** The context does not provide any information about these factors, so I am unable to generate the output you requested."
+16,012f5c87932b3a32e623a5f7b4f36c660cf259022a3f97639b19879aa4f0a76b,different-language,Vuna kabichi wakati hakuna mvua.,common_voice_en_42771461.mp3,female_feminine,,9108,"Huna, habiti, wahati, al-kuna, ko-wa.","Language: <the language the transcription is in>
+
+**Output:**
+
+Topic: Huna's journey
+Reason: It's a story about a young woman's adventure in a new country.
+Fact 1: Huna is a young woman from a different country.
+Fact 2: She is traveling to a new country to pursue her dreams.
+Fact 3: She has experienced many challenges and changes during her journey."
+17,0764bda23b96d77a775fed703edca9f754eaeba2e42b1284ce1f8a9aba82383d,different-language,Hamisha miche toka kitaluni pamoja na udongo wake,common_voice_en_42772446.mp3,,,8748,Hamis-hamis doka kita luni pambuja nak odunggo wakit.,"Language: <language identified if not English>
+
+**Answer:**
+
+Topic: N/A
+Reason: N/A
+Fact 1: Hamis-hamis doka kita luni pambuja nak odunggo wakit.
+Fact 2: N/A
+Fact 3: N/A
+Language: Filipino"
+18,f8c30f7e9a4f35facd310765688144342ecf93de966dc7421e21283edff76649,difficult-pronounce,"Finally, deprotonation of the oxocarbenium ion produces the ester.",common_voice_en_42773560.mp3,,Welsh English,8820,"Finally, deprotonation of the oxocarbenium ion produces the esther.","Additional information: <optional, for more context>
+
+In this case, the provided text is about the chemical reaction between oxocarbenium ions and esthers. However, due to the incomplete and ambiguous nature of the transcription, it is difficult to accurately extract the required information from the context."
+19,0170730431315280f658b702acad2894835495bcbd07ce9d60e4b6ce0cc8809c,sc-different-language,"Migomba huhitaji maji mengi, hasa wakati wa kiangazi.",common_voice_en_42776510.mp3,,,7632,Mi gomba hojiti maajimengi asa wakati wa kiyangazi.,"...
+
+**Note:** The context of the conversation is not provided, so I cannot generate a response that addresses the context directly.
+
+In this case, the context is not provided in the context, so I cannot generate the requested information from the context."
+20,f8f3d0cb28c6c3345fd2f4b35d0dc8dfe7cc71138d6413d33d67ceac40443635,grammar-or-spelling,Karachi is also known as software outsourcing hub of Pakistan.,common_voice_en_42779481.mp3,female_feminine,,6120,Karachi is also known as Software Outsourcing Hub of Pakistan.,"Additional Context: <provide context about the overall speech>
+
+**Output:**
+
+Topic: Software Outsourcing Hub of Pakistan
+Reason: This is a common topic in Pakistan related to the software industry.
+Fact 1: Karachi's economy heavily relies on the software outsourcing industry.
+Fact 2: Many multinational companies have their software development centers in Karachi.
+Fact 3: The city has a strong talent pool and educational institutions to attract software outsourcing companies."
+21,04b5e23a747ccf6fb0977ce9f5ce341d593586cff8af2d4e634c5fcb1b346cb4,sc-different-language,katika kila hatua na faida utakayopata.,common_voice_en_42779928.mp3,female_feminine,,5508,Katika kila hatua na faida utakayo pata.,"Language: <indicated language if it's different from English>
+
+**Note:** 
+The context does not specify the language of the audio, so I cannot determine the language of the transcription.
+
+**Output:**
+
+Topic: <topic phrase>
+Reason: <tone of the sound>
+Fact 1: <first fact or category>
+Fact 2: <second fact or category>
+Fact 3: <third fact or category>
+Language: Different-language"
+22,04b5e23a747ccf6fb0977ce9f5ce341d593586cff8af2d4e634c5fcb1b346cb4,sc-different-language,katika kila hatua na faida utakayopata.,common_voice_en_42779955.mp3,,United States English,8388,Kutiga kila hatua na faida yutakopa yata.,"Language: <language identified if not English>
+
+**Answer**:
+
+Topic: Indigenous culture
+Reason: The phrase emphasizes the importance of preserving indigenous culture.
+Fact 1: Indigenous culture is a significant part of Hawaiian identity.
+Fact 2: The phrase suggests that the speaker is passionate about protecting indigenous culture.
+Fact 3: The phrase highlights the threat to indigenous culture from globalization and colonization."
+23,008cc12562347312b8fe77608f4af15ce1d45d6ae04e40e5250ad84830d6a109,different-language,Hifadhi kwenye sehemu yenye ubaridi,common_voice_en_42779982.mp3,male_masculine,Filipino,6480,"If faft he, kwenje sehemo, genje uvalidi.","Language: <language identified if different from English>
+
+**Answer:**
+
+Topic: N/A
+Reason: N/A
+Fact 1: N/A
+Fact 2: N/A
+Fact 3: N/A
+Language: Different-language"
+24,008cc12562347312b8fe77608f4af15ce1d45d6ae04e40e5250ad84830d6a109,different-language,Hifadhi kwenye sehemu yenye ubaridi,common_voice_en_42779982.mp3,male_masculine,Filipino,6480,"If faft he, kwenje sehemo, genje uvalidi.","Language: <language identified if different from English>
+
+**Output:**
+
+Topic: Not provided
+Reason: Not provided
+Fact 1: Not provided
+Fact 2: Not provided
+Fact 3: Not provided
+Language: Different-language"
+25,08f73abaf8d74bb935c66893b9ffec20bccd9407b9b4739ab7b63a02ea307a32,different-language,Majani haya ya kijani yenye virutubisho vingi,common_voice_en_42780014.mp3,male_masculine,Filipino,5940,ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ,"Additional Information: <provide context or additional insights>
+
+**Note:** The task is not complete without the full audio transcript.
+
+**Based on the given audio, the output would be:**
+
+**Topic: Not Provided**
+**Reason: Not Provided**
+**Fact 1: Not Provided**
+**Fact 2: Not Provided**
+**Fact 3: Not Provided**
+**Additional Information: The text is in a foreign language, and the transcription contains many errors.**"
+26,011c0c76807418fb507c7ed0391fe73b5dbcbedb1f4133d119fd05f723e4430d,different-language,kimekuwepo kwa miaka mingi.,common_voice_en_42780052.mp3,male_masculine,Filipino,4572,"que me eu vou pelo, com a minha caminhinha.","Language: <language of the transcription>
+
+**Answer:**
+
+Topic: The weather
+Reason: Positive tone and frequent use of causative verbs
+Fact 1: The weather is currently sunny.
+Fact 2: It is currently raining.
+Fact 3: It will be sunny tomorrow."
+27,098e2f2497550b56241ec3a32b6fd230891e5efb4935c35e586f3ba5c9fbad76,different-language,Lakini kama utakuwa unaongezea mbolea,common_voice_en_42782087.mp3,female_feminine,,9360,I am a data analyst.,"Additional Context: <provide contextual information based on the text>
+
+**Note:** The audio transcript does not provide any context or background information, so the additional context will be based solely on the text itself.
+
+Based on the given transcript, here's the output:
+
+**Topic: Not Provided**
+**Reason: Not Provided**
+**Fact 1: I am a data analyst.**
+**Fact 2: Not Provided**
+**Fact 3: Not Provided**
+**Additional Context: The context is not provided in the text.**"
+28,07db84b8e95ebe6e8b2656aefdf3a0edea8aeb7dad815049c46c2c1e20b38b53,different-language,yanaweza kusaidia kudhibiti wadudu na magonjwa.,common_voice_en_42783329.mp3,female_feminine,,7020,....................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................,"Language: <identified language if different-language>
+
+**Note:** The context does not provide any information about the ASR-transcript or the context of the conversation, so some of the answers may be based on assumptions."
+29,07db84b8e95ebe6e8b2656aefdf3a0edea8aeb7dad815049c46c2c1e20b38b53,different-language,yanaweza kusaidia kudhibiti wadudu na magonjwa.,common_voice_en_42783329.mp3,female_feminine,,7020,....................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................,"Additional Context: <provide additional information about the context>
+
+**Note:** The context of the audio is not explicitly mentioned in the transcript, so the additional context will be based on the surrounding context or the overall discussion."
+30,065dc1ab5456a68acdc00d00403acd76d015014c0cc508e442d0c039ca76199a,sc-different-language,Nchini Tanzania kuna mikoa,common_voice_en_42783581.mp3,female_feminine,,3816,Initazani akunami koa.,"Language: <language identified if different from English>
+
+**Note:**
+This is a simplified example. In a real-world scenario, the context and quality of the transcription would be taken into consideration."
+31,09eebe67a72f42f379fcdb6d4daea4fd61db06b7530f80ced2d97df894548616,sc-different-language,ikibidi tumia dawa za ukungu kama vile Copperhydroxide,common_voice_en_42783611.mp3,female_feminine,,7200,Biditumia dawa za apungu kamafiga kupa hydrosaendi.,"Additional Information: <contextual inference or explanation>
+
+**Note:** This is a simplified task, and the output may not be perfect even with perfect transcription.
+
+**Based on the provided audio, the output would be:**
+
+**Topic: None**
+**Reason: Not enough context**
+**Fact 1: Biditumia dawa za apungu kamafiga kupa hydrosaendi**
+**Fact 2: Different-language**
+**Fact 3: Not enough information provided**"
+32,06f1540a72130d6cd4eb0a58282ff0dc3383577878f375b66eb53971f40eeb0b,sc-different-language,Mwagilia maji ya kutosha kulingana na unyevunyevu,common_voice_en_42783682.mp3,female_feminine,,7092,One day I went to Yakutsk to find out what is new.,"Additional context: <provide context if necessary>
+
+**Note:** This is just a basic example. The actual transcription may contain more information or be more complex.
+
+**Based on the context, here's the output:**
+
+**Topic: Yakutsk news**
+**Reason: Informative and neutral tone**
+**Fact 1: The city is facing a water shortage**
+**Fact 2: The government is considering several solutions**
+**Fact 3: The public is divided on the issue**"
+33,f92a80cc4ba8f937dc3ffee36a3b956b6bd1e23f46c405f78a5e089c2e063572,Tiktok,He ignored contemporary literature and current social trends.,common_voice_en_42784126.mp3,female_feminine,,4572,"No, it's got two plus bits here, the current, so two times.","Language: <identified language>
+(Optional) Contextual inference: <brief summary of the context>
+
+**Answer:**
+Topic: Not specified
+Reason: Not specified
+Fact 1: The current time is two.
+Fact 2: Not specified
+Fact 3: Not specified
+Language: Not specified
+Contextual inference: The context is unclear, as the audio does not provide any additional information."
+34,09e712e0c5f6a3df9fdf52eeb2ddbc229a1f65591f81bbd4a6027128c7766cdd,sc-different-language,Uvunaji wa nyanya,common_voice_en_42784159.mp3,female_feminine,,2772,Ванна не гуанит.,"Language: <detect the language of the transcription>
+
+**Output:**
+
+Topic: Not specified
+Reason: Not specified
+Fact 1: Not specified
+Fact 2: Not specified
+Fact 3: Not specified
+Language: Russian"
+35,08ce9a48525ee2543fd35af1fea51e374af2d7716c9f4bd96085aaa7e895de20,different-language,Amerika ya Kusini ndio chanzo cha nyanya,common_voice_en_42785982.mp3,,,4428,"America Yakuza, India, China, China, India.","Context: <provide context based on the information>
+
+**Output:**
+
+Topic: Not provided in the context
+Reason: Not provided in the context
+Fact 1: America Yakuza
+Fact 2: Not provided in the context
+Fact 3: Not provided in the context"
+36,009375bf016c23c17ff72429a7851db726e86c1e954ef6032588d6c6b05a6f4f,different-language,Sumicidinni dawa za kuuwa wadudwa kabichi,common_voice_en_42787439.mp3,,,7308,Sumizidini da waza kuwa wa dodwa kabiche.,"Language: <language of the transcription>
+Additional context: <brief description of the context>
+
+**Note:** This is a simplified example. In a real analysis, additional factors like tone of voice, body language, and context clues would be used to improve accuracy."
+37,02e053f4a713e11a9a26f9d027bd810ba61537fa5088acfbabfcd3bb594c4c62,different-language,kinakabiliwa na changamoto mbalimbali,common_voice_en_42787825.mp3,female_feminine,,11808,kina kabiliwa na changamoto mbalimbali,"Additional context: <contextual information that's not directly in the text>
+
+**Note:** The context is not explicitly given in the audio transcript, so I cannot generate the additional context section."
+38,0e06aeab8ef124cf32a9881b29ba613414d2ae739b1155837e82316a10adea9c,sc-different-language,Mbinu za Kupanda sukuma wiki,common_voice_en_42788601.mp3,female_feminine,England English,4680,binoza kupanda sukumawiki,"Additional Information: <contextual inferences about the text>
+
+**Note:** The context does not provide any information about the audio clip, so the additional information will not be included in the output."
+39,0dab2d7ca4802a3ac3fdd56d61623e7b15d6082f2385c2dbb67b47f049b79141,sc-different-language,Sukuma wiki inaweza kushambuliwa na wadudu,common_voice_en_42789775.mp3,male_masculine,Filipino,6948,Soukuma wiki inawesa kushamboli wana wagudu,"Additional information: <contextual interpretation of the text>
+
+**Note:** The context does not provide any information about the audio itself, only the transcribed text.
+
+**Result:**
+
+Topic: Not provided in context
+Reason: Not provided in context
+Fact 1: Not provided in context
+Fact 2: Not provided in context
+Fact 3: Not provided in context
+Additional information: The context does not provide any information about the audio itself."
+40,0dab2d7ca4802a3ac3fdd56d61623e7b15d6082f2385c2dbb67b47f049b79141,difficult-pronounce,Sukuma wiki inaweza kushambuliwa na wadudu,common_voice_en_42789775.mp3,male_masculine,Filipino,6948,Soukuma wiki inawesa kushamboli wana wagudu,"Language: <language of the transcription>
+
+**Note:** For ease of analysis, I have omitted the audio and focused on analyzing the text itself."
+41,0c6bda1ffa0dadb20277dd0e6ea15eb71b09a286ca988a0da6f33b503f2478f1,sc-different-language,"migahawa, na maduka ya vyakula.",common_voice_en_42789802.mp3,male_masculine,Filipino,5184,"Miga Juan Juan, la Maduca ya huía al culo.","Language: <language identified if different from English>
+
+**Note:** The context does not provide information about the individual's identity, location, or context, so these aspects are not included in the output."
+42,072cad87746c506662af5b92f3b892152e4741a88b967a328ef593787753d205,different-language,kuzuia magugu yasiote na kuhifadhi unyevu wa udongo.,common_voice_en_42789825.mp3,male_masculine,Filipino,7524,ḍḍḍḍḍḍḍḍḍḍḍḍḍḍḍḍḍḍḍḍḍḍḍḍḍḍḍḍḍḍḍḍḍḍḍḍḍḍḍḍḍḍḍḍḍḍḍḍḍḍḍḍḍḍḍḍḍḍḍḍḍḍḍḍḍḍḍḍḍḍḍḍḍḍḍḍḍḍḍḍḍḍḍḍḍḍḍḍḍḍḍḍḍḍḍḍḍḍḍḍḍḍḍḍḍḍḍḍḍḍḍḍḍḍḍḍḍḍḍḍḍḍḍḍḍḍḍḍḍḍḍḍḍḍḍḍḍḍḍḍḍḍḍḍḍḍḍḍ,"Language: <language identified if different from English>
+
+**Note:** The context does not specify the language of the audio, so I cannot determine the language of the text."
+43,0c2dd810b7efd19e9a4c667822aafd0daf184a37e2b3afca4ea28e0b92b2754e,sc-different-language,Mbolea hii inaweza kuwekwa mara mbili kabla ya mvuno wa kwanza.,common_voice_en_42789904.mp3,male_masculine,Filipino,11268,ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ,"(Optional) Additional information about the context.
+
+**Note**: The provided context is a series of repeated letters and does not provide a clear topic or information. Therefore, it is not possible to extract the requested information from the context."
+44,04a7908fa657b072af1226d8f4c777f1d1c1b82c5fb2b95a3411c5ead7dc3fb4,sc-different-language,Kabla ya kupanda mbegu weka mbolea,common_voice_en_42789932.mp3,male_masculine,Filipino,5868,"¡Cabla ya! ¡Cupanda en begu, huica en bolero!","Language: <language identified if different>
+
+**Output:**
+
+Topic: Not Provided
+Reason: Not Provided
+Fact 1: Not Provided
+Fact 2: Not Provided
+Fact 3: Not Provided
+Language: Spanish"
+45,0ab80b8a366b913456913a3083c69892661506e4bbb591033cdef52410b33943,sc-different-language,ukungu unaoharibu nyanya.,common_voice_en_42789941.mp3,male_masculine,Filipino,5256,"Un cubo, un agoguerabo y un ninja.","Language: <identified language>
+
+**Note:** The original audio is not included in the context."
+46,0638bd1165e9a30faf0f9cb278c5d29a7d1f3717ff7a8e36506a2ce10a98b4ed,different-language,na shimo lichanganywe na udongo na samadi,common_voice_en_42790055.mp3,male_masculine,Filipino,5292,نا شیما لین چاوانیگ یه نا اوزونگ نا سمالی,"Language: <language identified if different from English>
+
+In this case, the audio transcript is in Arabic, and the task is to perform the following:
+
+**Topic:**
+
+* What is the main topic or issue discussed in the audio?
+
+**Reason:**
+
+* What is the tone of the sound that reveals the main topic?
+
+**Facts:**
+
+* What are the three most important facts, reasons, or categories mentioned in the audio?
+
+**Language:**
+
+* Arabic
+
+**Output:**
+
+**Topic:  **
+**Reason:  **
+**Fact 1:  **
+**Fact 2:  **
+**Fact 3:  **
+**Language: Arabic"
+47,0a643407bb0b546ea41e159d75c75fd7908f8cf0d1d68715c388d7dc647da547,sc-different-language,kuna haja ya kutoa mafunzo kuhusu mbinu bora,common_voice_en_42790124.mp3,male_masculine,Filipino,7128,Kuna hajaja kutua mamfutsu kuhusu binubora.,"Additional Information: <contextual clues that help understand the conversation>
+
+**Answer:**
+
+Topic: Unknown language
+Reason: The context does not provide any information about the language of the conversation.
+Fact 1: The conversation is about a person named Kuna.
+Fact 2: The conversation is about a person's name.
+Fact 3: The conversation is about a person's identity.
+Additional Information: The context does not specify the language of the conversation, making it difficult to determine the topic."
+48,f94056cc6f12ebcab73b98feacc45a48ee96c29f60be255d7225950092621ebb,difficult-pronounce,Written by cEvin Key and Phil Western with a guest appearance by Mark Spybey.,common_voice_en_42790225.mp3,male_masculine,Filipino,7344,Written by Edwin Key and Phil Wester with a guest appearance by Mark Spieber.,"Additional Context: <provide context based on the text>
+
+
+**Note**: Please use your best judgment and reasoning skills to evaluate the information and determine the most relevant and accurate interpretation of the text.
+
+Based on the audio transcript, here's the output you requested:
+
+**Topic: Not Provided**
+**Reason: Not Provided**
+**Fact 1: Written by Edwin Key and Phil Wester with a guest appearance by Mark Spieber. **
+**Fact 2: The main topic or issue discussed is not provided in the context.**
+**Fact 3: The three most important facts, reasons, or categories mentioned are not provided in the context.**"
+49,0bc3df0294bcbdedf4c57c108ace1ca88b76518b4340ecc2380afa34fe22cd4f,sc-different-language,"Zao hili hulimwa pia katika nchi za Africa Mashariki,",common_voice_en_42790290.mp3,male_masculine,Filipino,7992,Zaohili Kulingwaka Biakatika Ishnilsa Afrika Mashariki.,"Language: <language identified if different from English>
+
+**Output:**
+
+Topic: Not provided
+Reason: Not provided
+Fact 1: Zaohili is a language spoken in Africa.
+Fact 2: The topic of the conversation is the challenges faced by people in Africa.
+Fact 3: The language of the speaker is not specified in the context."
+50,0ae90cdd97745e4b3967a612d5b581b80b6f21381abec900b4a75404e07890fa,sc-different-language,pia ni zao lenye faida kubwa kibiashara.,common_voice_en_42790343.mp3,male_masculine,Filipino,7668,"Pianisaolene, Vizagutva, Kibiasjala.","Language: <language detected>
+
+**Output:**
+
+Topic: Pianisaolene
+Reason: This is a place name in Vizagutva.
+Fact 1: The language spoken in Pianisaolene is different-language.
+Fact 2: The main topic discussed is the history of Vizagutva.
+Fact 3: The city's main reasons for being important are its historical significance and its natural beauty.
+Language: Telugu"
+51,0ae37962827d5527b657762ddf76d3b474f82e8b3974ed93e5d4e0cae3645076,sc-different-language,shina linakuwa limefukiwa kitaluni.,common_voice_en_42790402.mp3,male_masculine,Filipino,5724,"Chine, l'Inaqoua, l'Imei, Funtiva, Quitaloni.","Additional Information: <contextual clues or inferences>
+
+**Note:** The context does not provide the entire audio transcript, only a few words.
+
+**Answer:**
+
+Topic: Not provided in the context.
+Reason: Not provided in the context.
+Fact 1: Not provided in the context.
+Fact 2: Not provided in the context.
+Fact 3: Not provided in the context.
+Additional Information: The context does not provide any contextual clues or inferences."
+52,04975966bbe02de5639eb28abb4c9f7970a01fb483d351efbeef47fb9d6eaa0e,different-language,"hasa mijini, kutokana na matumizi yake",common_voice_en_42792020.mp3,female_feminine,Uganda - English ,5616,"Hazan Jini, Kutukana Nami, Matunizi Yaki.",Language: <identified language if different from English>
+53,0b0782e4e33c7a0159e993db83cc6ee79263eea7d40ad68fcaf4f07d5f0dabda,sc-different-language,yenye rangi ya njano kwenye majani.,common_voice_en_42800302.mp3,,,8496,ये न्ये रान्जी यान उ जान ना वो भी न्ये मैं जान,Language: <language identified if different from English>
+54,0d7a5d5687a78aeab1b701715abb5cf9813581147f1a9b38aefad770684427a2,sc-different-language,"au ya tatu baada ya kupandikiza miche,",common_voice_en_42800405.mp3,,,6876,ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ,Language: <identified language if not English>
+55,030b4238ba52bb4e5f7279e3687481240ae6b1c7d3e1a4fdb18a8a971681ad72,different-language,kati hadi za juu kutoka usawa wa bahari.,common_voice_en_42800526.mp3,female_feminine,,7308,Kati handi za juku toka usawa wada hari.,"Additional context: <provide context if necessary>
+
+**Note:** The context does not provide the audio transcript, so I am unable to provide context in the output.
+
+**Output:**
+
+Topic: Juku toka usawa wada hari
+Reason: Positive tone suggests a happy event
+Fact 1: Not specified
+Fact 2: Not specified
+Fact 3: Not specified"
+56,030b4238ba52bb4e5f7279e3687481240ae6b1c7d3e1a4fdb18a8a971681ad72,different-language,kati hadi za juu kutoka usawa wa bahari.,common_voice_en_42800526.mp3,female_feminine,,7308,Kati handi za juku toka usawa wada hari.,"Language: <language identified (if applicable)>
+
+**Output:**
+Topic: Kati handi za juku toka usawa wada hari.
+Reason: Positive tone.
+Fact 1: Kati handi, a Japanese phrase.
+Fact 2: Toka usawa, a phrase meaning ""we will go"".
+Fact 3: Hari, a day."
+57,0c6e3f05ca64c3e9948a1d1bd499189935a15079027699d762aca34f18437fd2,sc-different-language,Hujitokezajuu usiku kwa kuchimba udongo kutumia miguuyambele.,common_voice_en_42803607.mp3,,"Southern African (South Africa, Zimbabwe, Namibia)",9720,"Haji takia zaakumisa usuku kwa, uchimba udoga ktumiamu mugu ambemi.","Additional Information: <provide context or infer from the text>
+
+**Note:** This task is not about providing a literal translation, but rather about understanding the underlying meaning and context of the text."
+58,0c6e3f05ca64c3e9948a1d1bd499189935a15079027699d762aca34f18437fd2,sc-different-language,Hujitokezajuu usiku kwa kuchimba udongo kutumia miguuyambele.,common_voice_en_42803607.mp3,,"Southern African (South Africa, Zimbabwe, Namibia)",9720,"Haji takia zaakumisa usuku kwa, uchimba udoga ktumiamu mugu ambemi.","Additional Notes: <optional additional information>
+
+
+**Answer:**
+Topic: Not provided in the context.
+Reason: Not provided in the context.
+Fact 1: Haji takia zaakumisa usuku kwa.
+Fact 2: Not provided in the context.
+Fact 3: Not provided in the context.
+Additional Notes: The context does not provide any other information about the meaning of the text or its topic."
+59,009375bf016c23c17ff72429a7851db726e86c1e954ef6032588d6c6b05a6f4f,different-language,Sumicidinni dawa za kuuwa wadudwa kabichi,common_voice_en_42805304.mp3,,,14328,Sumichidini dawa zakua wadudwa kabichi.,"Language: <language identified>
+
+
+**Answer:**
+
+Topic: <topic phrase not provided in the transcript>
+Reason: <no reason provided in the transcript>
+Fact 1: <first fact or category>
+Fact 2: <second fact or category>
+Fact 3: <third fact or category>
+Language: <different-language>"
+60,0db88223660d6a107f87b97b4cb4bedecca4326a912501c8921b7fc474c17c6c,sc-different-language,Matunzo ya Shamba la Sukuma Wik,common_voice_en_42806095.mp3,,,5328,ماتنزويا شنبا لسكومة ويك,"Language: <language identified>
+
+**Note:** The context does not provide any information about the language of the audio or the topic of the discussion."
+61,0db88223660d6a107f87b97b4cb4bedecca4326a912501c8921b7fc474c17c6c,difficult-pronounce,Matunzo ya Shamba la Sukuma Wik,common_voice_en_42806095.mp3,,,5328,ماتنزويا شنبا لسكومة ويك,"Language: <language identified if different from English>
+
+**Note:** The context does not provide any information about the audio or the intended purpose of the text."
+62,18732345ba7f63fab7f38b6740d827a6842d67aae32e194636c3cd2a12dcca8e,different-language,"katika maeneo ya Afrika Mashariki, ikiwemo Tanzania.",common_voice_en_42806505.mp3,,,12096,ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ ḍ,"Additional information: <explain any ambiguity or context clues>
+
+**Note:** 
+The context does not provide any additional information or context clues, so the task cannot be completed."
+63,0bfaa8c56d6832dab9caa4208d479ec662717567427b5ffe4f0d62bc5336c0a2,sc-different-language,kabla ya kupandikiza miche,common_voice_en_42807875.mp3,female_feminine,,3816,قبلا یا کو پندی که زمیش,"Language: <language of the transcription>
+
+**Answer:**
+
+Topic: Different-language
+Reason: The context does not provide any information about the tone of the sound.
+Fact 1: The speaker talks about ""قبلا یا کو پندی"".
+Fact 2: The topic is something related to ""different-language"".
+Fact 3: The speech is not explained or given context, so it is difficult to extract any specific facts or categories."
+64,f96027f9ddcefa18dc023914642bb7f8f300b6cc82798778e1290a0102e4f5e4,I have failed to record the sentences I have read out loud. ,"Previously, it was the home to away supporters on the bottom tier.",common_voice_en_42809894.mp3,,,5148,Previously it was the home of our supporters on the Potom Chaya.,"Language: <linguistic information>
+
+
+**Based on the provided context:**
+
+**Topic: Not specified**
+
+**Reason: Not specified**
+
+**Fact 1: Home of our supporters on the Potom Chaya**
+
+**Fact 2: Not specified**
+
+**Fact 3: Not specified**
+
+**Language: Not specified**"
+65,0a0c0e8bf7f4b62567b29c87e611dd87d16b62fc432895b41dc6c07e8b700f10,sc-different-language,unaweza kumwagilia nyanya mara mbili kwa wiki.,common_voice_en_42809984.mp3,female_feminine,"England English,Southern African (South Africa, Zimbabwe, Namibia)",7056,Unaweza kumagiri anyanya marambili fawiki.,"Language: <language detected>
+
+**Answer:**
+
+Topic: Marambili
+Reason: Positive tone
+Fact 1: The word ""marambili"" is a Kiswahili word for ""bird"".
+Fact 2: The focus is on the importance of protecting the environment.
+Fact 3: The context does not mention specific categories or participants, but it's evident that the discussion is about environmental protection."
+66,f9876386c692584439fcd62d3801e89eabffb1edfa88c5dea2ac05bcb490fbf1,grammar-or-spelling,"The parish boasts a fine Iron Age hill fort in Snelsmore, called Bussock Camp.",common_voice_en_42813930.mp3,female_feminine,,9360,The parish boss of Fane Iron Age Hill fought in Snailsmore called Bassock Camp.,"Additional Information: <contextual clues>
+
+**Note:** The context does not provide any information about the year or specific event, so I cannot extract the requested information from the context."
+67,f97ed7479d5e1a715332617cd7d904b0cec9c770660623fcac5aa046790d4a6c,grammar-or-spelling,Kirkland is also a health activist including advocating for women harmed by breast implants.,common_voice_en_42814266.mp3,female_feminine,United States English,12708,Crackland is also a health activist including advocating for women harmed by breast implants.,"Additional Information: <any relevant details or context>
+
+**Output:**
+
+Topic: Health activism
+Reason: Positive tone; advocating for women harmed by breast implants
+Fact 1: Women harmed by breast implants
+Fact 2: Advocacy for victims of breast implant complications
+Fact 3: Resources and support for breast implant victims"
+68,f92ec7819e70eabf8a40dce0ab62b44238d024acdfbcda084d6c6b00056f6478,offensive-language,"In many eusocial Hymenoptera species, the larvae are fed by female workers.",common_voice_en_42814441.mp3,,,12708,"In many you-social hymenoptera speeches, the levy are fed by female workers.","Additional Information: <contextual inferences about the speech>
+
+**Answer:**
+
+Topic: The role of female workers in social hymenoptera speeches
+Reason: The text suggests that female workers are responsible for feeding the larvae.
+Fact 1: The workers are responsible for feeding the larvae.
+Fact 2: The text uses a positive tone to describe the workers' role.
+Fact 3: The speech focuses on the social behavior of social hymenoptera."
+69,1a23cd428e77759064fb488473a3b78ab6b32e2a250fd0b42d292a57fc8dad19,different-language,Andaa mashimo ya nyanya kutegemeana,common_voice_en_42814468.mp3,female_feminine,United States English,3636,Anda mashimo yanyanya kote gimeyana.,"Language: <identified language if different from English>
+
+**Note:**
+The context does not provide any information about the audio or the intended meaning.
+
+**Answer:**
+
+**Topic: Not provided in the context**
+
+**Reason: Not provided in the context**
+
+**Fact 1: Not provided in the context**
+
+**Fact 2: Not provided in the context**
+
+**Fact 3: Not provided in the context**
+
+**Language: Not provided in the context**"
+70,f96308f17df46775c7514bc77fa4e53dce778dc66118b001e46279d1db759752,grammar-or-spelling,"On a more practical levels, sampling frames have the form of computer files.",common_voice_en_42814585.mp3,,,10368,"On a more practical level, sampling frames have the form of computer fires.","Additional context: <give context about the situation>
+
+**Note:** The context does not provide the audio transcript itself, so we cannot directly access the information needed to perform these tasks.
+
+In this case, the audio transcript does not provide any textual information, so I am unable to complete this task."
+71,26018d79c9b2954872e76d5f0e90932bebf96605de4208a4ce612f2e410416f8,grammar-or-spelling,"This pattern continues for larger numbers, such as hundreds, thousands, millions, and beyond.",common_voice_en_42814595.mp3,,,9108,"This pattern continues for larger numbers such as hundreds, thousands, millions and beyond.","Language: <language identified if not English>
+
+**Answer:**
+
+**Topic: Not Provided**
+**Reason: Not Provided**
+**Fact 1: This pattern continues for larger numbers such as hundreds, thousands, millions and beyond.**
+**Fact 2: Not Provided**
+**Fact 3: Not Provided**
+**Language: English**"
+72,f98a13f59b8eecd8be7673a06dc3108fe431f6c99239c4c355157f8be031ddc8,grammar-or-spelling,"Hunt is herself a singer, and often performs at the restaurant.",common_voice_en_42814919.mp3,,,10728,Hunt is a herself and singer and often performs at the restaurant.,"Additional context: <contextual information that is not explicitly stated>
+
+**Output:**
+
+Topic: Not Provided
+Reason: Not Provided
+Fact 1: Hunt is a singer
+Fact 2: She often performs at the restaurant
+Fact 3: Not provided
+
+**Explanation:**
+
+The context does not specify a topic or provide any information about the main issue discussed. Therefore, the output is as requested."
+73,f9714fe3764043de2d774e9296319e67d358f14136b8403cabbe1ac042f4aea8,grammar-or-spelling,A specially imported machine was imported to make the concrete for this wall.,common_voice_en_42816296.mp3,,,6300,especially imported machine was imported to make the concrete for this wall.,"Language: <identified language if different from English>
+
+**Output:**
+
+Topic: Concrete wall
+Reason: It was built with imported machine
+Fact 1: Imported machine
+Fact 2: Concrete for wall
+Fact 3: Not specified"
+74,f98614e203ffbc5e9f61066885d645ee630d35c75952c1fa219e6ee4d21eddc7,grammar-or-spelling,These three companies added valuable properties and power and water sources.,common_voice_en_42816616.mp3,female_feminine,England English,6048,These three companies added valuable properties and power and water sources.,"Context: <contextual description of the situation>
+
+**Answer:**
+
+Topic: Not Provided
+Reason: Not Provided
+Fact 1: Not Provided
+Fact 2: Not Provided
+Fact 3: Companies added valuable properties and power and water sources.
+Context: The context is not provided in the text."
+75,1bb1892f02b922ab718d9e084c417e87095c7fe9bc90511f68a6af6c680f48a9,different-language,ambao hupendelea sana hali ya unyevunyevu,common_voice_en_42817044.mp3,female_feminine,East African,5580,Amba'u pendelea sana haliau nyevu nyevo.,"Language: <linguistic category of the speech>
+
+**Note:** The audio does not include the context or surrounding conversation, so I am unable to provide context or a summary of the conversation."
+76,26c48bc049308b56650df9d66461a1674eeac4557e2e3dd2d40b995870eef074,offensive-language,Ergonomic hazards are also prevalent in turning work.,common_voice_en_42832489.mp3,,"Southern African (South Africa, Zimbabwe, Namibia)",5004,Organomic hazards are also prevalent in turning work.,"Additional Context: <provide context and inferences>
+
+**Note:** You are not able to access external sources or make visual interpretations of the audio.
+
+**Based on the provided context, the output should be:**
+
+**Topic: Organomic hazards**
+**Reason: It is a serious issue that requires attention and action.**
+**Fact 1: Organic hazards are prevalent in turning work.**
+**Fact 2: This issue can have significant consequences for workers and organizations.**
+**Fact 3: There are a number of factors that contribute to organic hazards.**"
+77,f997cf33635ead97cf3cf51b6302ceb462a49826147673656025e0b10ba49fb4,grammar-or-spelling,The mouth is at located at Lake Hudson.,common_voice_en_42855549.mp3,,United States English,6336,The mouth is located at Lake Hudson.,"Additional notes: <if applicable, provide additional context or insights>
+
+**Based only on the provided context, the main topic is the location of the mouth.**"
+78,16bc6a556f5bd086146e78c020060cc75f4f0a2f052eb1bcb1cd4a6f7be96a67,different-language,majani ya chini ya matunda,common_voice_en_42862195.mp3,female_feminine,United States English,4608,"wajani, yachini, yah matunda","Additional context: <provide context if necessary>
+
+**Output:**
+
+Topic: Yachini and Matunda: A Celebration of African Music and Culture
+Reason: The conversation highlights the cultural pride and heritage of African people through music and dance.
+Fact 1: Yachini is a well-known Kenyan rapper and musician.
+Fact 2: Matunda is a popular Kikuyu singer.
+Fact 3: Both Yachini and Matunda have released successful music albums."
+79,16bc6a556f5bd086146e78c020060cc75f4f0a2f052eb1bcb1cd4a6f7be96a67,difficult-pronunciation,majani ya chini ya matunda,common_voice_en_42862195.mp3,female_feminine,United States English,4608,"wajani, yachini, yah matunda","Language: <identified language if different than English>
+
+**Output:**
+
+Topic: Wajani's music
+Reason: Positive tone suggests joy and celebration
+Fact 1: Wajani is a Kenyan singer
+Fact 2: Wajani's music is influenced by traditional Kenyan music
+Fact 3: Wajani's music is popular among young people in Kenya"
+80,16bc6a556f5bd086146e78c020060cc75f4f0a2f052eb1bcb1cd4a6f7be96a67,different-language,majani ya chini ya matunda,common_voice_en_42862195.mp3,female_feminine,United States English,4608,"wajani, yachini, yah matunda","Language: <language identified if different from English>
+
+
+**Output:**
+
+Topic: Yachini and Matunda
+Reason: They are the founders of a cultural movement.
+Fact 1: Yachini was a prominent leader who participated in the movement.
+Fact 2: Matunda was an active member who contributed to the movement.
+Fact 3: The movement focused on promoting African culture and traditions.
+Language: Different-language"
+81,16bc6a556f5bd086146e78c020060cc75f4f0a2f052eb1bcb1cd4a6f7be96a67,different-language,majani ya chini ya matunda,common_voice_en_42862195.mp3,female_feminine,United States English,4608,"wajani, yachini, yah matunda","Language: <language identified if different from English>
+
+**Output:**
+
+Topic: Yachini
+Reason: Positive tone
+Fact 1: Yachini is a popular rapper from Kenya.
+Fact 2: Yachini's music often deals with social issues and politics.
+Fact 3: His latest album explores the challenges of living in a developing country."
+82,25226ecd879aa3589375d076a543db3e52b65e719faa92ad698a4580f0e3f3bc,different-language,"kama vile ndogo, za kati na kubwa.",common_voice_en_42862247.mp3,female_feminine,United States English,4356,"Come of all, my dog was a catty's a kambua.","Language: <language of the transcription>
+
+**Answer:**
+
+Topic: Catty's and Kambua
+Reason: It's a playful way of saying the dog was mischievous.
+Fact 1: The dog was mischievous.
+Fact 2: The phrase suggests the dog was playing with the Kambua.
+Fact 3: The context doesn't provide more details about the dog's behavior.
+Language: Different-language"
+83,f97c48e4a8a6afc4668bd381e09328bbc7da0ed3401549081dafd7ef751f6d01,grammar-or-spelling,Every time I try to enter into his latest conspiracy we bump heads.,common_voice_en_42867707.mp3,female_feminine,United States English,6084,"Every time I cry, I enter into the latest conspiracy. We bump heads.","Contextual Inference: <optional, if applicable>
+
+**Output:**
+
+Topic: Not Provided
+Reason: Not Provided
+Fact 1: Not Provided
+Fact 2: Not Provided
+Fact 3: Not Provided
+Contextual Inference: The context of the audio is unclear and does not provide sufficient information to determine the topic or main issue discussed."
+84,f96fe6713bb35b8145a1523e670d6d5e57db36686c7a7685031d9c1639e84974,offensive-language,Some worlds may have both these while others have one or none.,common_voice_en_42896183.mp3,female_feminine,United States English,5184,Some of the worlds may have both these while others have one or none.,"Language: <language the transcription is in>
+
+**Output:**
+
+Topic: Not Provided
+Reason: Not Provided
+Fact 1: Some of the worlds may have both these...
+Fact 2: Not Provided
+Fact 3: Not Provided
+Language: English"
+85,f9bde9e63c387adea1dc04a8eef80e1fbb7bd45ba7a9c62faf38637ae9042da2,offensive-language,He returned to Birmingham City at the end of his loan spell.,common_voice_en_42896338.mp3,female_feminine,United States English,3708,He returned to Brighamham City at the end of his lone spell.,"Additional Information: <contextual information that enriches the understanding of the main topic>
+
+**Output:**
+Topic: Not provided
+Reason: Not provided
+Fact 1: Not provided
+Fact 2: Not provided
+Fact 3: Not provided
+Additional Information: The provided context does not mention any details about the end of his spell."
+86,f940bc4a079d1069ea21ad29d05d2b9a4976277f6fafb7d999a7c6026791a63b,grammar-or-spelling,He got a large block of lead and mounted it on his spear.,common_voice_en_42902793.mp3,female_feminine,United States English,4176,He got a large block of lead and mounted it on his spear.,"Additional Contextual Information: <explain the reasoning process>
+
+**Please note:** The context does not provide a complete audio transcript, only a single sentence.
+
+**Output:**
+
+**Topic: **Spear**
+**Reason: **Serious and potentially dangerous**
+**Fact 1: **Large block of lead mounted on spear**
+**Fact 2: **Mounted for a specific purpose**
+**Fact 3: **May have dangerous consequences**"
+87,f9f544dec8816858268430e3acd68c601a6983866ace0cb790e3038c3c8f9763,offensive-language,"Also, certain crops cannot be effectively stored together, as unwanted chemical interactions can result.",common_voice_en_42936366.mp3,female_feminine,spanish english,9288,"Also, certain crops cannot be effectively stored together as unwanted chemical reactions can result.","Additional Context: <provide context if necessary>
+
+
+**Answer:**
+
+**Topic:** Not provided in the context
+
+**Reason:** Not provided in the context
+
+**Fact 1:** Certain crops cannot be stored together due to unwanted chemical reactions.
+
+**Fact 2:** The context does not provide more details about the tone of the sound.
+
+**Fact 3:** The context does not provide any information about the three most important facts.
+
+**Additional Context:** The context does not provide any additional context or background information."
+88,f9f544dec8816858268430e3acd68c601a6983866ace0cb790e3038c3c8f9763,grammar-or-spelling,"Also, certain crops cannot be effectively stored together, as unwanted chemical interactions can result.",common_voice_en_42936366.mp3,female_feminine,spanish english,9288,"Also, certain crops cannot be effectively stored together as unwanted chemical reactions can result.","Additional information: <contextual clues>
+
+**Answer:**
+
+**Topic: Crop storage**
+**Reason: Unwanted chemical reactions can result in poor storage**
+**Fact 1: Unwanted chemical reactions can damage crop quality and reduce yield.**
+**Fact 2: Different crops are susceptible to different chemical reactions.**
+**Fact 3: Improper storage practices can lead to spoilage and loss of valuable agricultural resources.**"
+89,f9f544dec8816858268430e3acd68c601a6983866ace0cb790e3038c3c8f9763,different-language,"Also, certain crops cannot be effectively stored together, as unwanted chemical interactions can result.",common_voice_en_42936366.mp3,female_feminine,spanish english,9288,"Also, certain crops cannot be effectively stored together as unwanted chemical reactions can result.","Context: <provide context for the information>
+
+**Note:** The context provided does not specify a topic, tone, or any other relevant information. Therefore, the context field will be omitted from the output."
+90,f9f544dec8816858268430e3acd68c601a6983866ace0cb790e3038c3c8f9763,difficult-pronounce,"Also, certain crops cannot be effectively stored together, as unwanted chemical interactions can result.",common_voice_en_42936366.mp3,female_feminine,spanish english,9288,"Also, certain crops cannot be effectively stored together as unwanted chemical reactions can result.","Additional Context: <contextual information relevant to the main topic>
+
+**Note:** The context of the conversation is not provided in the context, so I cannot generate the additional context portion."
+91,2a0467f4c8f14c02537cefed28831b889566b3dc813212da273d2e1742703ce5,difficult-pronunciation,"Cars have spacious interiors and trunks, allowing for comfortable seating and ample storage space.",common_voice_en_42952086.mp3,male_masculine,,7560,"Cars have spacious interiors and trunks, allowing for comfortable seating and ample storage space.","Additional information: <contextual inference about the rest of the conversation>
+
+**Output:**
+
+Topic: Cars
+Reason: It describes the spacious interior and trunk space of cars.
+Fact 1: Spacious interior (different-language)
+Fact 2: Ample storage space (different-language)
+Fact 3: Comfortful seating (different-language)"
+92,f9e53d907b76f00962586c419b7ff809169adacee53e03014a232eca90140274,tiktok,The Prize aims at encouraging students to excel in scientific fields at all levels.,common_voice_en_42971199.mp3,,Canadian English,5112,The prize aims at encouraging students to excel in scientific fields at all levels.,"(Optional) Contextual inference
+
+**Output**:
+
+Topic: Scientific Fields
+Reason: Encouraging students to excel in scientific fields at all levels.
+Fact 1: Scientific fields are full of challenges.
+Fact 2: Students can find opportunities to work on challenging problems in scientific fields.
+Fact 3: There are many careers in scientific fields that offer good salaries and benefits."
+93,fa005669d2a4bb49d3f860294e5f6a603a997aa66060f5ff50096c367f89be0c,difficult-pronunciation,"The Kitchener School of Medicine, the first medical school in Sudan, was established.",common_voice_en_42973528.mp3,,,7956,"The Kitchener School of Medicine, the first medical school in Sudan, was established.","Additional Context: <provide context if necessary>
+
+**Output:**
+
+Topic: First Medical School in Sudan
+Reason: Positive tone suggests a significant achievement
+Fact 1: First medical school in Sudan
+Fact 2: Established by a prestigious institution
+Fact 3: Educated medical professionals for a diverse community"
+94,f9e3d88a9623944f0e72adde2864a8f6ad81eedc243d1ad920743a3038479550,offensive-language,Permits may be required by various states.,common_voice_en_42982073.mp3,male_masculine,,5328,"There, let's maybe recommend both of these things.","Additional context: <provide context beyond the key points>
+
+**Note:** The context is not explicitly given in the audio transcript. Therefore, the output will have to rely on contextual inference.
+
+**Additional Information:**
+
+* The audio transcript is about 3 minutes long.
+* The transcription appears to be a conversation between two people, where one is suggesting a solution to a problem.
+
+Please analyze the audio and provide the output based on the instructions above."
+95,f9f86e52dfc4bd53cb2f27eb3490ad2a6e67e8315fb2eec6c745ca18ee7189cf,different-language,Mathias later stated that he had never seriously considered switching parties.,common_voice_en_42999889.mp3,,United States English,5796,Mathias later stated that he had never seriously considered switching parties.,"Additional Context: <provide context if necessary>
+
+**Output:**
+
+Topic: Not mentioned
+Reason: Not mentioned
+Fact 1: Never seriously considered switching parties.
+Fact 2: Not mentioned
+Fact 3: Not mentioned
+Additional Context: The context does not provide any additional information about the conversation or the speaker's political views."
+96,f9f86e52dfc4bd53cb2f27eb3490ad2a6e67e8315fb2eec6c745ca18ee7189cf,difficult-pronunciation,Mathias later stated that he had never seriously considered switching parties.,common_voice_en_42999889.mp3,,United States English,5796,Mathias later stated that he had never seriously considered switching parties.,"Additional information: <contextual clues or further observations>
+
+**Output:**
+
+Topic:
+Reason:
+Fact 1:
+Fact 2:
+Fact 3:
+Additional information:"
+97,27d4b0b8829fea820526326f4f1f2e45ed127b198b52b18fa7dcc5b6f1a08883,offensive-language,They may work for a postal service or courier company.,common_voice_en_43004195.mp3,male_masculine,Latinamerican,4284,They may work for a postal service or crew company.,"Note: If the transcription is unclear, provide the context for the inference.
+
+**Output:**
+
+Topic: Not provided in the context
+Reason: Not provided in the context
+Fact 1: They may work for a postal service or crew company.
+Fact 2: Not provided in the context
+Fact 3: Not provided in the context"
+98,27d4b0b8829fea820526326f4f1f2e45ed127b198b52b18fa7dcc5b6f1a08883,difficult-pronounce,They may work for a postal service or courier company.,common_voice_en_43004195.mp3,male_masculine,Latinamerican,4284,They may work for a postal service or crew company.,"(or None if unable to extract facts)
+
+**Note:** 
+- The context does not provide any information about the audio content.
+- The task is to analyze the text based on the provided context.
+
+**Answer:**
+
+Topic: Not specified
+Reason: Not specified
+Fact 1: Not specified
+Fact 2: Not specified
+Fact 3: Not specified"
+99,27d4b0b8829fea820526326f4f1f2e45ed127b198b52b18fa7dcc5b6f1a08883,different-language,They may work for a postal service or courier company.,common_voice_en_43004195.mp3,male_masculine,Latinamerican,4284,They may work for a postal service or crew company.,"Etc.
+
+**Note:** The context does not provide any additional information about the audio transcript, such as the date, speaker, or context.
+
+**Output:**
+
+Topic: Not provided in the context.
+Reason: Not provided in the context.
+Fact 1: Not provided in the context.
+Fact 2: Not provided in the context.
+Fact 3: Not provided in the context."
+100,27d4b0b8829fea820526326f4f1f2e45ed127b198b52b18fa7dcc5b6f1a08883,grammar-or-spelling,They may work for a postal service or courier company.,common_voice_en_43004195.mp3,male_masculine,Latinamerican,4284,They may work for a postal service or crew company.,"Interpretation: <brief summary of the topic and key points>
+
+**Note:** The context only provides one sentence, which is insufficient to fully understand the conversation.
+
+**Output:**
+
+**Topic:** Not provided in the context.
+**Reason:** Not provided in the context.
+**Fact 1:** They may work for a postal service or crew company.
+**Fact 2:** Not provided in the context.
+**Fact 3:** They may work in a variety of roles, such as delivery, customer service, or security.
+**Interpretation:** They may work for a company that provides services related to mail delivery or other logistics functions."
+101,27d4b0b8829fea820526326f4f1f2e45ed127b198b52b18fa7dcc5b6f1a08883,sushant,They may work for a postal service or courier company.,common_voice_en_43004195.mp3,male_masculine,Latinamerican,4284,They may work for a postal service or crew company.,"Language: <identified language>
+**Note:** The context does not provide the audio transcript itself, so I cannot access it for analysis.
+
+
+**Output:**
+
+**Topic: Not Provided**
+**Reason: Not Provided**
+**Fact 1: They may work for a postal service or crew company.**
+**Fact 2: The main topic discussed is the possible employment of personnel by a service company.**
+**Fact 3: The three most important facts are:**
+- They may work for a postal service or crew company.
+- The nature of their work is not specified.
+- The company may employ personnel for various tasks.
+**Language: English**"
+102,2b348cac502e0299dbff7f148813f911509431d38f01f74c5fddb91b7c240da5,offensive-language,This would contradict their statement that they will take care of it themselves later.,common_voice_en_43004228.mp3,male_masculine,Latinamerican,6408,This would contradict their statement that they will take care of it themselves later.,"```
+
+**Answer:**
+
+Topic: Not taking care of it themselves later
+Reason: Contradiction in their statement
+Fact 1: Their statement implies they will take care of it themselves later.
+Fact 2: Contradiction is expressed in a formal tone.
+Fact 3: The context does not provide any information about taking care of it themselves later."
+103,2b348cac502e0299dbff7f148813f911509431d38f01f74c5fddb91b7c240da5,grammar-or-spelling,This would contradict their statement that they will take care of it themselves later.,common_voice_en_43004228.mp3,male_masculine,Latinamerican,6408,This would contradict their statement that they will take care of it themselves later.,"---
+
+**Answer:**
+
+Topic: None.
+Reason: The context does not provide any information about their intention to take care of the issue.
+Fact 1: None.
+Fact 2: None.
+Fact 3: None."
+104,2b348cac502e0299dbff7f148813f911509431d38f01f74c5fddb91b7c240da5,different-language,This would contradict their statement that they will take care of it themselves later.,common_voice_en_43004228.mp3,male_masculine,Latinamerican,6408,This would contradict their statement that they will take care of it themselves later.,Additional information: <explain the context and any other relevant points>
+105,2b348cac502e0299dbff7f148813f911509431d38f01f74c5fddb91b7c240da5,difficult-pronunciation,This would contradict their statement that they will take care of it themselves later.,common_voice_en_43004228.mp3,male_masculine,Latinamerican,6408,This would contradict their statement that they will take care of it themselves later.,"Additional Context: <provide contextual information if relevant>
+
+**Answer:**
+
+Topic: Contradiction
+Reason: The statement implies that they will take care of it themselves later, but the context contradicts this.
+Fact 1: The statement is contradicted by the context.
+Fact 2: The context suggests that they are not taking care of it themselves.
+Fact 3: The context does not provide any information about taking care of it themselves."
+106,2b348cac502e0299dbff7f148813f911509431d38f01f74c5fddb91b7c240da5,offensive-language,This would contradict their statement that they will take care of it themselves later.,common_voice_en_43004228.mp3,male_masculine,Latinamerican,6408,This would contradict their statement that they will take care of it themselves later.,"...
+
+**Note:** The audio transcript does not provide context, so the task cannot be performed using the provided context."
+107,2b348cac502e0299dbff7f148813f911509431d38f01f74c5fddb91b7c240da5,grammar-or-spelling,This would contradict their statement that they will take care of it themselves later.,common_voice_en_43004228.mp3,male_masculine,Latinamerican,6408,This would contradict their statement that they will take care of it themselves later.,"Additional Information: <provide context or additional insights>
+
+**Answer:**
+
+Topic: Contradiction
+Reason: The statement contradicts their previous claim.
+Fact 1: They originally claimed they would take care of it themselves later.
+Fact 2: Their tone and body language suggested a sense of urgency.
+Fact 3: They did not provide any details about how they would handle the situation."
+108,2b348cac502e0299dbff7f148813f911509431d38f01f74c5fddb91b7c240da5,different-language,This would contradict their statement that they will take care of it themselves later.,common_voice_en_43004228.mp3,male_masculine,Latinamerican,6408,This would contradict their statement that they will take care of it themselves later.,"Additional Context: <provide context about the conversation>
+
+**Output:**
+Topic: Contradiction
+Reason: Statement implies self-care will be taken care of later.
+Fact 1: Contradiction between statement and expected outcome.
+Fact 2: No information about self-care.
+Fact 3: No information about cause or effect between statement and expected outcome."
+109,2b348cac502e0299dbff7f148813f911509431d38f01f74c5fddb91b7c240da5,difficult-pronunciation,This would contradict their statement that they will take care of it themselves later.,common_voice_en_43004228.mp3,male_masculine,Latinamerican,6408,This would contradict their statement that they will take care of it themselves later.,"Additional context: <provide context if necessary>
+
+**Answer:**
+
+Topic: Contradiction
+Reason: The statement implies that they will take care of it themselves later, contradicting their earlier statement.
+Fact 1: The context does not specify the original statement, making it difficult to determine the main topic.
+Fact 2: The tone of the sound is neutral, without any strong emotional or factual emphasis.
+Fact 3: The context does not provide any relevant information about the three most important facts discussed."
+110,2b348cac502e0299dbff7f148813f911509431d38f01f74c5fddb91b7c240da5,offensive-language,This would contradict their statement that they will take care of it themselves later.,common_voice_en_43004228.mp3,male_masculine,Latinamerican,6408,This would contradict their statement that they will take care of it themselves later.,"Additional Context: <brief summary of the conversation>
+
+**Note:** The context does not explicitly mention anything about the statement, its tone, or the topic of discussion. Therefore, the output will be based on the information provided in the audio clip."
+111,2b348cac502e0299dbff7f148813f911509431d38f01f74c5fddb91b7c240da5,grammar-or-spelling,This would contradict their statement that they will take care of it themselves later.,common_voice_en_43004228.mp3,male_masculine,Latinamerican,6408,This would contradict their statement that they will take care of it themselves later.,"(or 'No Facts Found' if no relevant information is extracted)
+
+**Note:** The context does not indicate any information about the audio, such as the speaker, topic, or context."
+112,2b348cac502e0299dbff7f148813f911509431d38f01f74c5fddb91b7c240da5,different-language,This would contradict their statement that they will take care of it themselves later.,common_voice_en_43004228.mp3,male_masculine,Latinamerican,6408,This would contradict their statement that they will take care of it themselves later.,"(Optional) Contextual inference: <a short summary of the context>
+
+**Note:** The context is not explicitly given in the context, so I have omitted it from the output.
+
+Based on the audio transcript, the requested task can be fulfilled by identifying the topic as ""communication breakdown"" and the tone as ""negative"". The most important facts are:
+
+- Communication difficulties can be caused by technical issues.
+- These issues can be caused by the equipment itself or by software problems.
+- Solutions to communication breakdowns can include restarting the equipment, updating software, or contacting customer support."
+113,2b348cac502e0299dbff7f148813f911509431d38f01f74c5fddb91b7c240da5,difficult-pronunciation,This would contradict their statement that they will take care of it themselves later.,common_voice_en_43004228.mp3,male_masculine,Latinamerican,6408,This would contradict their statement that they will take care of it themselves later.,"Contextual Inference: <brief summary of the context>
+
+**Note:** The context provided in the audio is not included in the text. Therefore, the contextual inference will be based on the information provided in the audio itself."
+114,2b348cac502e0299dbff7f148813f911509431d38f01f74c5fddb91b7c240da5,offensive-language,This would contradict their statement that they will take care of it themselves later.,common_voice_en_43004228.mp3,male_masculine,Latinamerican,6408,This would contradict their statement that they will take care of it themselves later.,"Context: <provide context about the situation>
+
+**Note:** This is just an example, and the actual output may vary depending on the audio and your interpretation."
+115,2b348cac502e0299dbff7f148813f911509431d38f01f74c5fddb91b7c240da5,grammar-or-spelling,This would contradict their statement that they will take care of it themselves later.,common_voice_en_43004228.mp3,male_masculine,Latinamerican,6408,This would contradict their statement that they will take care of it themselves later.,"Additional Info: <provide context if necessary>
+
+**Note:** The context does not provide the audio transcript, so I am unable to provide the additional information requested in the task prompt."
+116,2b348cac502e0299dbff7f148813f911509431d38f01f74c5fddb91b7c240da5,different-language,This would contradict their statement that they will take care of it themselves later.,common_voice_en_43004228.mp3,male_masculine,Latinamerican,6408,This would contradict their statement that they will take care of it themselves later.,"Additional context: <provide context if necessary>
+
+**Answer:**
+
+Topic: Contradiction
+Reason: The statement implies that they will take care of it themselves later, but the context contradicts this.
+Fact 1: The statement contradicts their previous statement.
+Fact 2: The tone of the sound is negative or skeptical.
+Fact 3: The context does not provide any specific information about what they will do."
+117,2b348cac502e0299dbff7f148813f911509431d38f01f74c5fddb91b7c240da5,difficult-pronunciation,This would contradict their statement that they will take care of it themselves later.,common_voice_en_43004228.mp3,male_masculine,Latinamerican,6408,This would contradict their statement that they will take care of it themselves later.,"**Note:** The context provided only contains the sentence about the statement, which is ambiguous. Therefore, topic, reason, and facts cannot be extracted from the context."
+118,2d0ed4610de17b6c523c25437c48b5639bd364a65076743bc52605aba15d3d73,offensive-language,It seemed to be used by a pretty large swathe of the lesbian community.,common_voice_en_43096123.mp3,female_feminine,,6804,It seemed to be used by a pretty large swath of the lesbian community.,"**Note:** The context does not provide specific information about the context, the topic, or the speakers, 
+so these fields are left blank.
+
+In this case, the context only mentions the lesbian community, which is the main topic. The tone of the sound is neutral, so the main topic is likely a discussion about the lesbian community.
+
+**Output:**
+
+**Topic:** Lesbian community
+**Reason:** Neutral tone
+**Fact 1:** The lesbian community is a large and diverse group.
+**Fact 2:** The lesbian community is facing many challenges, including discrimination and violence.
+**Fact 3:** The lesbian community has a rich history of activism and advocacy."
+119,fa09190ce8775e7d7cb6ee862d020935c91521789622a5f7cdab17214b731f0e,offensive-language,"He also introduced the Somaliland shilling, passport and flag.",common_voice_en_43139613.mp3,,United States English,6804,He also introduced the Somaliland Shilling Passport End Flag.,"Additional Information: <contextual inferences or additional insights>
+
+**Note:** The context of the audio is not provided, so I cannot generate a contextual
+inference.
+
+**Answer:**
+
+Topic:  Somaliland Shilling Passport End Flag
+Reason: This phrase refers to a specific policy or flag related to the Somaliland Shilling passport.
+Fact 1: Somaliland Shilling passport is a special type of passport for citizens of Somaliland.
+Fact 2: The purpose of this passport is to allow citizens to travel and work freely within and outside of the country.
+Fact 3: The phrase suggests that this passport has been recently introduced or updated."
+120,27aa43c90d9e710eb64f5d734397a6b108b6df0fc3e09a8b0e7ba10ee09cb99f,grammar-or-spelling,Answer these questions using the words in brackets.,common_voice_en_43160231.mp3,male_masculine,Filipino,4824,Answer these questions using the words in brackets.,"Context: <contextualization of the information>
+
+In this case, the audio does not provide a context, so the context will be inferred from the task instructions."
+121,fa0a696fdd13821769acdc64f275758eb395f7b3c52653c0b684908a794c5d65,offensive-language,All of these are in the Louvre.,common_voice_en_43160665.mp3,male_masculine,Filipino,3384,All of these are in the Louvre.,"Additional Information: <provide any additional context or insights>
+
+**Answer:**
+
+Topic: Louvre
+Reason: The context does not provide any information about the topic.
+Fact 1: The Louvre is a museum in Paris, France.
+Fact 2: The Louvre houses some of the most famous paintings and sculptures in the world, including the Mona Lisa.
+Fact 3: The Louvre is open to the public and is a popular tourist destination."
+122,f9fef7350e7e2299e82a7511b41b6f7ef03227b591be7a581663d0a71fb7bbba,different-language,"Her fields of research were cytology, genetics and embryology.",common_voice_en_43168940.mp3,,New Zealand English,6768,"Her fields of research were cytology, genetics, and embryology.","**Additional Information:** <provide context or additional insights about the audio>
+
+**Output:**
+
+Topic: Cytology
+Reason: Objective and informative tone
+Fact 1: Cytology is a branch of medicine that focuses on the study of cells and their functions.
+Fact 2: It involves the use of microscopes to examine cells and tissues under a high magnification.
+Fact 3: The field of cytology has made significant contributions to our understanding of human health and disease."
+123,f9fef7350e7e2299e82a7511b41b6f7ef03227b591be7a581663d0a71fb7bbba,grammar-or-spelling,"Her fields of research were cytology, genetics and embryology.",common_voice_en_43168940.mp3,,New Zealand English,6768,"Her fields of research were cytology, genetics, and embryology.","Context: <provide contextual inference>
+
+**Answer:**
+
+Topic: Cytology
+Reason: The audio does not provide any information about the tone of the sound, so the topic can not be determined.
+Fact 1: Cytology is the study of the structure and function of cells.
+Fact 2: The passage does not specify any reasons for choosing cytology as a research field.
+Fact 3: The passage does not mention any categories related to cytology.
+Context: The audio provides no context to suggest the purpose of studying cytology or the tone of the sound."
+124,f9fef7350e7e2299e82a7511b41b6f7ef03227b591be7a581663d0a71fb7bbba,offensive-language,"Her fields of research were cytology, genetics and embryology.",common_voice_en_43168940.mp3,,New Zealand English,6768,"Her fields of research were cytology, genetics, and embryology.","Additional Context: <provide any relevant context information>
+
+
+**Output:**
+
+Topic: Cytology
+Reason: The text discusses the structure and function of cells.
+Fact 1: The cell is the basic unit of life.
+Fact 2: Cells are responsible for producing energy.
+Fact 3: Cells have a variety of functions, including reproduction, growth, and defense."
+125,f9fef7350e7e2299e82a7511b41b6f7ef03227b591be7a581663d0a71fb7bbba,difficult-pronounce,"Her fields of research were cytology, genetics and embryology.",common_voice_en_43168940.mp3,,New Zealand English,6768,"Her fields of research were cytology, genetics, and embryology.","Language: <language detected (if applicable)>
+
+**Output:**
+Topic: Cytology
+Reason: Scientific field of study
+Fact 1: Cytology is the study of cells.
+Fact 2: The main topic is cancer research.
+Fact 3: The focus is on abnormal or unwanted cells.
+Language: English"
+126,f9fef7350e7e2299e82a7511b41b6f7ef03227b591be7a581663d0a71fb7bbba,m,"Her fields of research were cytology, genetics and embryology.",common_voice_en_43168940.mp3,,New Zealand English,6768,"Her fields of research were cytology, genetics, and embryology.","Additional Information: <contextual clues that might help understand the text>
+
+**Output:**
+Topic: Cytology
+Reason: Scientific field of study
+Fact 1: Cytology is the study of cells.
+Fact 2: Cells are the fundamental unit of life.
+Fact 3: Cytology is used to diagnose diseases and develop drugs."
+127,fa273361a963682dec6e2f977bd780311878358577c833a39ceb3233594b110d,difficult-pronounce,He was a good friend of Giuseppe Torelli and the scholar Girolamo Pompei.,common_voice_en_43168950.mp3,,New Zealand English,7128,He was a good friend of Giuseppe Torioli and the scholar Gary Lample Pompey.,"Additional Context: <provide context and inferences based on the audio>
+
+**Answer:**
+
+Topic: None (information about Giuseppe Torioli or Gary Lample Pompey is missing)
+Reason: Not enough context is provided in the audio for me to determine the tone of the sound.
+Fact 1: None
+Fact 2: None
+Fact 3: None
+Additional Context: The context is limited to the introduction, which only mentions the names of the speakers."
+128,fa36cbc8cd6bebf5f2eada4987b5f349013f6049e66f501a888c9bb17ae26bbf,offensive-language,"Professional quality brands of oil pastel include Sennelier, Holbein, Garich, and Sakura Specialist.",common_voice_en_43184036.mp3,,"United States English,United Kingdom East Midlands",10908,Mae'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd,"Etc.
+
+**Note:** You do not have access to external resources such as dictionaries or translations.
+
+**Example Output:**
+
+Topic: Political Discourse
+Reason: Aggressive tone suggests disagreement and debate
+Fact 1: The recent election results have sparked concerns about democratic institutions.
+Fact 2: The politician's rhetoric often appeals to emotions, rather than reason.
+Fact 3: The opposition party has raised questions about the fairness of the election process."
+129,fa36cbc8cd6bebf5f2eada4987b5f349013f6049e66f501a888c9bb17ae26bbf,grammar-or-spelling,"Professional quality brands of oil pastel include Sennelier, Holbein, Garich, and Sakura Specialist.",common_voice_en_43184036.mp3,,"United States English,United Kingdom East Midlands",10908,Mae'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd,"(Optional) Different-language flag (True/False)
+
+**Note:**
+The context does not provide any information about the speaker or the situation, so the topic, reason, and facts will be inferred from the text."
+130,fa36cbc8cd6bebf5f2eada4987b5f349013f6049e66f501a888c9bb17ae26bbf,different-language,"Professional quality brands of oil pastel include Sennelier, Holbein, Garich, and Sakura Specialist.",common_voice_en_43184036.mp3,,"United States English,United Kingdom East Midlands",10908,Mae'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd,"Note: If the transcription is unclear, provide a brief explanation of the context."
+131,fa36cbc8cd6bebf5f2eada4987b5f349013f6049e66f501a888c9bb17ae26bbf,difficult-pronunciation,"Professional quality brands of oil pastel include Sennelier, Holbein, Garich, and Sakura Specialist.",common_voice_en_43184036.mp3,,"United States English,United Kingdom East Midlands",10908,Mae'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd,"Additional context: <provide additional information about the context>
+
+Based on the given audio, the main topic is the general topic of ""speech"". The main tone of the sound suggests a neutral and informative tone. The three most important facts, reasons, or categories mentioned are:
+
+1. The importance of clear and effective communication.
+2. The role of language in conveying meaning and emotions.
+3. The negative consequences of miscommunication and inappropriate language usage."
+132,fa36cbc8cd6bebf5f2eada4987b5f349013f6049e66f501a888c9bb17ae26bbf,chandra,"Professional quality brands of oil pastel include Sennelier, Holbein, Garich, and Sakura Specialist.",common_voice_en_43184036.mp3,,"United States English,United Kingdom East Midlands",10908,Mae'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd,"Language: <identified language if different from English>
+
+**Example Output:**
+Topic: Endangered species
+Reason: The conversation highlights the plight of endangered animals and the threats they face.
+Fact 1: The species in question are mostly found in Africa.
+Fact 2: Habitat loss due to deforestation is a major cause of endangerment.
+Fact 3: Conservation efforts are underway to protect these species."
+133,fa546a20d2f0588a1643c4b2664d0c634d53144e4de6ee253e671a6f20080d36,different-language,His final appearance was on the Christmas Day Special.,common_voice_en_43192935.mp3,,,4248,His final appearance was on the Christmas Day special.,"**Note:** The context is not provided in the audio, so you have to make your own inferences.
+
+
+**Answer:**
+
+**Topic:** Christmas Day
+**Reason:** The audio does not specify the tone of the sound, so I cannot determine the main topic.
+**Fact 1:** His final appearance was on the Christmas Day special.
+**Fact 2:** The topic is about Christmas.
+**Fact 3:** I cannot extract the three most important facts from the context."
+134,fa8d1a89b8dfc232f2c1e721b9e7ecc22fdda8f2196687931dc49a76c3025a5f,grammar-or-spelling,"She like, Joel, was a Republican.",common_voice_en_43196222.mp3,,,4248,"She, like Joe, was Republican.","Additional Contextual Information: <provide context if relevant>
+
+**Output:**
+Topic:
+Reason:
+Fact 1:
+Fact 2:
+Fact 3:
+Additional Contextual Information:"
+135,fa9d9f2517f9ad907132b074755cd17caed66deb1e0de44a9591296851fc63cf,different-language,"It is widely served and mostly drunk in winter because it ""warms"" the throat.",common_voice_en_43196244.mp3,,,4860,Rwy'n meddwl i'n meddwl i'n meddwl i'n meddwl i'n meddwl i'n meddwl i'n meddwl i'n meddwl i'n meddwl i'n meddwl i'n meddwl i'n meddwl i'n meddwl i'n meddwl i'n meddwl i'n meddwl i'n meddwl i'n meddwl i'n meddwl i'n meddwl i'n meddwl i'n meddwl i'n meddwl i'n meddwl i'n meddwl i'n meddwl i'n meddwl i'n meddwl i'n meddwl i'n meddwl i'n meddwl i'n meddwl i'n meddwl i'n meddwl i'n meddwl i'n meddwl i'n meddwl i'n meddwl i'n meddwl i'n meddwl i'n meddwl i'n meddwl i'n meddwl i'n meddwl i'n meddwl i'n meddwl i'n meddwl i'n meddwl i'n meddwl i'n meddwl i'n meddwl i'n meddwl i'n meddwl i'n meddwl i'n meddwl i'n meddwl i'n meddwl i'n meddwl i'n meddwl i'n meddwl i'n meddwl i'n meddwl i'n meddwl i'n meddwl i'n meddwl i'n meddwl i'n meddwl i'n meddwl i'n meddwl i'n meddwl i'n meddwl i'n meddwl i'n meddwl i'n medd,"Additional Contextual Information: <provide context if relevant>
+
+**Note:** The context of the conversation is not explicitly mentioned in the audio, so I cannot provide contextual information in the output."
+136,fa9e1deae2c582a04ef5f69dd36a811586a78b2314ac85d37d8500987a77634f,grammar-or-spelling,"Anderson has support many team riders including Kerby Brown, Cooper Chapman, Christo Hall.",common_voice_en_43198680.mp3,,"United States English,United States Southeastern English (Charlotte NC)",6120,"Anderson has support many team riders including Kirby Brown, Cooper Chapman, Krista Hall.","Contextual Inference: <provide context if applicable>
+
+**Output:**
+
+Topic: Team Riders
+Reason: Positive tone suggests team cohesion and support.
+Fact 1: Anderson's support for team riders.
+Fact 2: Kirby Brown, Cooper Chapman, and Krista Hall are among the team riders receiving support.
+Fact 3: The context doesn't provide additional information on the support provided, but it suggests that it's not focused on individual performance.
+
+**Note:** The context is not provided in the audio transcript, so contextual inference is not included in the output above."
+137,fab23d5e3bf9b9cba3de27d3a2d4165db0bd8d705ac05b2988a2cc849f45d322,grammar-or-spelling,There is no improvements on this Township.,common_voice_en_43199039.mp3,,,4932,There is no improvements on this township.,"Language: <language identified if different from English>
+
+**Note:** You are not able to access external resources or give opinions or subjective statements.
+
+**Additional Information:**
+* The audio transcript is short and does not provide context for the conversation.
+
+**Output:**
+
+**Topic: N/A**
+
+**Reason: No context provided**
+
+**Fact 1: N/A**
+
+**Fact 2: N/A**
+
+**Fact 3: N/A**
+
+**Language: English**"
+138,fab23d5e3bf9b9cba3de27d3a2d4165db0bd8d705ac05b2988a2cc849f45d322,grammar-or-spelling,There is no improvements on this Township.,common_voice_en_43199088.mp3,,,6012,There is no improvements on this township.,"Language: <indicate the language of the transcription>
+
+**Output:**
+
+Topic: No improvements
+Reason: No improvement mentioned
+Fact 1: No improvements
+Fact 2: No improvement mentioned
+Fact 3: No improvement mentioned
+Language: Not specified"
+139,2fce23b0fcc1934863f23bafe8c24614731533df5981c56dfa26669a66a647bd,sc-different-language,He wants to attend a medicine course at the university.,common_voice_en_43205134.mp3,,Australian English,4464,He wants to attend a medicine course at the University.,"Additional Information: <contextual clues or inferences>
+
+**Note:** The context is ambiguous and does not specify the intended field of study, the target audience, or the specific medical course the person is interested in. Therefore, the output will be more general in nature.
+
+Based on the provided context, here's my output:
+
+**Topic:** Not specified
+
+**Reason:** Ambiguous context does not provide enough information to determine the intended field of study or the specific medical course.
+
+**Fact 1:** Not specified
+
+**Fact 2:** Not specified
+
+**Fact 3:** Not specified
+
+**Additional Information:** The context is ambiguous and does not provide any contextual clues or inferences, making it difficult to determine the intended field of study or the specific medical course the person is interested in."
+140,28fb1a9129d95bdaae0dfe267bf366d07e0c86bb9e3de57d458a2b0aecd45497,grammar-or-spelling,Watson defeated two former champions on the quiz show Jeopardy!,common_voice_en_43207947.mp3,,United States English,9432,Watson defeated two former champions on the quiz show Jeopardy.,"Additional information: <contextual interpretation of the text>
+
+**Output:**
+
+Topic: Jeopardy
+Reason: Watson's victory indicates his dominance on the show.
+Fact 1: Watson defeated two former champions.
+Fact 2: Watson won the show with ease.
+Fact 3: The context doesn't provide any information about the previous champions."
+141,27b781f5514af39404d83bf24ff1824401bff2b65bebe4e4e80655fed34d3dbf,grammar-or-spelling,Coming to Russia to practice it is a fantastic idea!,common_voice_en_43354842.mp3,,,5976,Coming to Russia to practice it is a fantastic idea.,"Additional Information: <provide context if necessary>
+
+**Note:** The audio transcript does not provide a text format, so I am unable to generate the output as requested."
+142,fc2149c25798946d5bdba7ab970ddeeface651ca9175372e51bf3172ce89f992,grammar-or-spelling,He also race the Top Race Series season.,common_voice_en_43377345.mp3,male_masculine,Canadian English,5796,He also writes the top race series season.,"Additional information: <contextual inferences or additional observations>
+
+**Note:** The audio transcript does not provide context or additional information, so the task cannot be completed."
+143,fc48940f4747c8583949a87d76436e10fc74bb062fda7adec630a26aab8341df,not sound can't be listen.,Estienne was born in Paris.,common_voice_en_43393017.mp3,male_masculine,Filipino,3024,And Tim was born in Paris.,"Additional Information: <contextual clues or inferences>
+
+**Output:**
+
+Topic: Not specified
+Reason: Not specified
+Fact 1: Born in Paris
+Fact 2: Not specified
+Fact 3: Not specified
+Additional Information: The context does not provide any additional information."
+144,fc456ba4f69b47c2f27a8fe3e2a72dab673561d23f8af2597d669734e4e1de21,different-language,"The floral emblem of Candiac is the ""Campanula carpatica"", better known as White Clips.",common_voice_en_43394044.mp3,,,7272,"The floral emblem of Kandyak is the Campanula Carpathica, better known as White Clips.","**Note:**  The context of the question is not provided in the context, so I cannot generate a response that would require context.
+
+Based on the context provided, the main topic is the floral emblem of Kandyak. The main tone of the sound is neutral, suggesting a factual and objective description. The three most important facts are:
+
+1. The floral emblem of Kandyak is the Campanula Carpathica.
+2. The Campanula Carpathica is a white flower.
+3. The Campanula Carpathica is a popular flower in Kandyak."
+145,fc1dd5906e1f7e71b4b0777db7f0eee8d80f7c9f04bb99230a8774a93cd003f1,grammar-or-spelling,Another difference between tribes is the date of their arrival in the Philippines.,common_voice_en_43422090.mp3,,United States English,4500,Another difference between tribes is the date of their arrival in the Philippines.,"Additional Context: <provide context if necessary>
+
+**Answer:**
+
+Topic: Date of arrival in the Philippines
+Reason: This information is not explicitly mentioned in the text.
+Fact 1: The date of arrival is not specified in the text.
+Fact 2: The context does not provide any information about the date of arrival.
+Fact 3: The text does not mention the date of arrival.
+Additional Context: The context does not provide any information about the date of arrival in the Philippines."
+146,fc5fa0000b7d32ff576afeda07e0131c0c64f13b239f56e0ec7840f3b3ecd889,difficult-pronounce,At the east end of the bridge there is a statue of David Davies.,common_voice_en_43422106.mp3,,United States English,4068,"At the east end of the bridge, there is a statue of David Davies.","Additional Information: <contextual clues or inferences from the text>
+
+**Output:**
+Topic: Statue of David Davies
+Reason: It is a historical landmark and a symbol of the town.
+Fact 1: The statue was erected in 1892 to commemorate a local lawyer.
+Fact 2: The statue is often associated with the town's history and folklore.
+Fact 3: The statue is a popular tourist attraction."
+147,fc5c668335325d77ed765eb69b08c8879f42d19df542239050a80f8c925ab2d2,grammar-or-spelling,This line can be also used for emergency power supply of substations.,common_voice_en_43426886.mp3,male_masculine,England English,7128,This land can also be used for emergency hours at Bay of Sut stations.,"**Note:** The context does not provide the audio transcript itself, so the task cannot be completed."

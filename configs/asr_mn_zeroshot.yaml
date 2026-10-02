@@ -1,0 +1,9 @@
+# Zero-shot Mongolian ASR on the CV-22 delta (27 clips from other.tsv, not yet validated).
+root: data/raw/cv-corpus-22.0-delta-2025-06-20
+locale: mn
+eval_set: other
+asr_model: openai/whisper-small
+language: mn
+guard: true
+llm_model: null
+out: results/mn_zeroshot/whisper-small

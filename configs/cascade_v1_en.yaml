@@ -1,0 +1,10 @@
+# v1 cascade on the English "reported sentence" set (107 unique clips).
+root: data/raw/cv-corpus-22.0-delta-2025-06-20
+locale: en
+eval_set: reported
+asr_model: openai/whisper-small     # same ASR as v0, so gains come from decoding + LLM fixes
+language: null                       # auto-detect; LID posterior is passed to the LLM
+guard: true                          # Whisper temperature fallback + length cap
+llm_model: Qwen/Qwen2.5-1.5B-Instruct
+use_lid: true
+out: results/v1_cascade_en

@@ -1,0 +1,23 @@
+# Stage 1: projector-only training for bilingual (mn + en) speech LLM. Single 24 GB GPU.
+# Data: full Common Voice 22 releases (not the delta) - see data/README.md.
+out: checkpoints/adapter_mn
+model:
+  encoder_id: openai/whisper-small        # swap for openai/whisper-large-v3-turbo if memory allows
+  llm_id: Qwen/Qwen2.5-1.5B-Instruct
+  stack_factor: 4
+  projector_hidden: 2048
+data:
+  train:
+    - {root: data/raw/cv-corpus-22.0-2025-06-20, locale: mn, split: train, distill: data/processed/distill_mn_train.jsonl}
+    - {root: data/raw/cv-corpus-22.0-2025-06-20, locale: en, split: train, max_clips: 20000, distill: data/processed/distill_en_train.jsonl}
+  tasks: {transcribe: 0.6, "lid+asr": 0.15, lid: 0.05, instruct: 0.2}
+train:
+  batch_size: 16
+  grad_accum: 2
+  lr: 1.0e-3
+  warmup_steps: 500
+  max_steps: 10000
+  log_every: 50
+  save_every: 1000
+  num_workers: 4
+  seed: 0

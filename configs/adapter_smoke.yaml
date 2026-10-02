@@ -1,0 +1,22 @@
+# CPU smoke test: proves the adapter trains end-to-end (loss goes down on a tiny set).
+# NOT a quality result - 27 clips, tiny models, a few dozen steps.
+out: checkpoints/adapter_smoke
+model:
+  encoder_id: openai/whisper-tiny
+  llm_id: Qwen/Qwen2.5-0.5B-Instruct
+  stack_factor: 4
+  projector_hidden: 512
+data:
+  train:
+    - {root: data/raw/cv-corpus-22.0-delta-2025-06-20, locale: mn, split: other}
+  tasks: {transcribe: 1.0}
+train:
+  device: cpu
+  batch_size: 4
+  grad_accum: 1
+  lr: 1.0e-3
+  warmup_steps: 5
+  max_steps: 60
+  log_every: 5
+  save_every: 60
+  seed: 0

@@ -1,0 +1,9 @@
+# Re-run v0's ASR decoding (auto language, no guard rails) locally for a like-for-like ablation.
+root: data/raw/cv-corpus-22.0-delta-2025-06-20
+locale: en
+eval_set: reported
+asr_model: openai/whisper-small
+language: null
+guard: false
+llm_model: null
+out: results/ablations/asr_v0_decoding

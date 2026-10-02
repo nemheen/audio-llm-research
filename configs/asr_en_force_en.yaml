@@ -1,0 +1,9 @@
+# Guarded decoding with language forced to English (what you'd do for an English-only product).
+root: data/raw/cv-corpus-22.0-delta-2025-06-20
+locale: en
+eval_set: reported
+asr_model: openai/whisper-small
+language: en
+guard: true
+llm_model: null
+out: results/ablations/asr_guarded_force_en

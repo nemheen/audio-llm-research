@@ -1,0 +1,45 @@
+{
+  "config": {
+    "root": "data/raw/cv-corpus-22.0-delta-2025-06-20",
+    "locale": "en",
+    "eval_set": "reported",
+    "asr_model": "openai/whisper-small",
+    "language": null,
+    "guard": false,
+    "llm_model": null,
+    "out": "results/ablations/asr_v0_decoding"
+  },
+  "asr": {
+    "n_utts": 107,
+    "wer": 1.0944963655244029,
+    "wer_ci95": [
+      0.5595578360882262,
+      1.7474031433019492
+    ],
+    "wer_unnormalised": 1.0353430353430353,
+    "cer": 0.6545644964217141,
+    "degenerate_rate": 0.08411214953271028,
+    "wer_excl_degenerate": 0.4614512471655329,
+    "wer_english_prompts": 0.9666666666666667,
+    "n_english_prompts": 69,
+    "lid_distribution": {
+      "en": 62,
+      "sw": 17,
+      "yo": 3,
+      "la": 3,
+      "cy": 3,
+      "es": 3,
+      "sn": 3,
+      "pt": 2,
+      "fr": 2,
+      "fa": 2,
+      "ms": 1,
+      "fi": 1,
+      "it": 1,
+      "ru": 1,
+      "my": 1,
+      "ar": 1,
+      "haw": 1
+    }
+  }
+}

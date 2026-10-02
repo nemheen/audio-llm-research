@@ -1,0 +1,9 @@
+# Same ASR as v0 but with Whisper's temperature fallback + duration-aware length cap.
+root: data/raw/cv-corpus-22.0-delta-2025-06-20
+locale: en
+eval_set: reported
+asr_model: openai/whisper-small
+language: null
+guard: true
+llm_model: null
+out: results/ablations/asr_guarded

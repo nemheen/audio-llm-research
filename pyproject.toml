@@ -1,0 +1,36 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "speechllm"
+version = "0.2.0"
+description = "Speech-aware LLMs for English and Mongolian: a cascade baseline, its failure analysis, and an end-to-end audio adapter."
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "torch>=2.2",
+    "transformers>=4.45",
+    "accelerate",
+    "jiwer>=3.0",
+    "pandas",
+    "numpy",
+    "soundfile>=0.12",   # libsndfile >= 1.1 decodes mp3, so no ffmpeg needed
+    "librosa",
+    "pyyaml",
+    "tqdm",
+    "scikit-learn",
+]
+
+[project.optional-dependencies]
+analysis = ["matplotlib", "jupyter", "nbconvert"]
+train = ["peft", "bitsandbytes"]
+demo = ["gradio"]
+dev = ["pytest"]
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["src"]

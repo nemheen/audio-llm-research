@@ -1,0 +1,33 @@
+# Data and checkpoints (see data/README.md for how to obtain them)
+data/raw/
+data/processed/
+checkpoints/
+*.tar.gz
+*.zip
+*.mp3
+*.wav
+
+# Original working copies kept outside the repo layout
+/audiollm_results.csv
+/audiollm_results.zip
+/notebook.ipynb
+/*.pdf
+/*.docx
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Run logs
+*.log
